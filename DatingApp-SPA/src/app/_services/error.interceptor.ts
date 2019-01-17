@@ -38,3 +38,4 @@ export const ErrorInterceptorProvider = {
     useClass: ErrorInterceptor,
     multi: true
 }
+;
